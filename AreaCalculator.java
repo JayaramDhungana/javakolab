@@ -1,3 +1,4 @@
+//9
 public class AreaCalculator {
     public static void main(String[] args) {
         AreaCalculator calculator = new AreaCalculator();

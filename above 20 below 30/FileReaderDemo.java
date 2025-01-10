@@ -6,7 +6,7 @@ import java.io.IOException;
 public class FileReaderDemo {
     public static void main(String[] args) {
         // Specify the file path (modify this according to your file location)
-        String filePath = "example.txt";
+        String filePath = "above 20 below 30\\example.txt";
 
         FileReader fileReader = null;
 

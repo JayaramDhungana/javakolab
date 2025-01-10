@@ -1,5 +1,5 @@
 /*
-    Question:
+    Question:16
     Create a `Person` class with private instance variables for the person’s name and birth date. 
     Add appropriate getter and setter methods for these variables. 
     Create a subclass `CollegeGraduate` with private instance variables for the student’s GPA and year of graduation, 
@@ -29,7 +29,7 @@ class Person {
     // Main method
     public static void main(String[] args) {
         // Creating an object of CollegeGraduate
-        CollegeGraduate graduate = new CollegeGraduate("Alice Johnson", "1998-04-15", 3.9, 2021);
+        CollegeGraduate graduate = new CollegeGraduate("Jayaram Dhungana", "2001-07-11", 3.9, 2021);
 
         // Display graduate's information
         graduate.displayInfo();

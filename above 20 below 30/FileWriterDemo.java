@@ -6,7 +6,7 @@ import java.io.IOException;
 public class FileWriterDemo {
     public static void main(String[] args) {
         // Specify the file path where the text will be written
-        String filePath = "output.txt";
+        String filePath = "above 20 below 30\\output.txt";
 
         // Example text lines to write to the file
         String[] lines = {
